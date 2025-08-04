@@ -1,4 +1,4 @@
-# Cervical_cancer_screening_with_computer_vision
+# Cervical Cancer Screening With Computer Vision
 
 **ABSTRACT:**     
 Visual Inspection with Acetic Acid (VIA) is a cost-effective and widely used cervical cancer screening method, particularly in underdeveloped and developing regions. With the growing success of computer vision in medical imaging applications, this project aims to enhance VIA screening by integrating Computer Vision and Machine Learning techniques. We evaluate the performance of several deep learning models on cervix images obtained through VIA:   
