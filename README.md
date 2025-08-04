@@ -11,7 +11,7 @@ In addition to image classification, we used a Random Forest model to analyze de
     
 
    
-OBJECTIVES:   
+OBJECTIVES:
 1. Automatically classify cervix images captured during VIA screening using deep learning models.
 2. Predict cervical cancer risk using patient-level features to support early detection, even in VIA-negative cases.   
 Our approach aims to improve the overall accuracy and reliability of cervical cancer screening, going beyond the traditional VIA method.
