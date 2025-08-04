@@ -8,7 +8,7 @@ Visual Inspection with Acetic Acid (VIA) is a cost-effective and widely used cer
 4. YOLO-NAS (Medium): 91% precision.    
    
 In addition to image classification, we used a Random Forest model to analyze demographic, behavioral, and clinical features, identifying key predictors of cervical cancer. An ensemble model trained on these features achieved an accuracy of 94%.
-
+    
 
 OBJECTIVES:
 1. Automatically classify cervix images captured during VIA screening using deep learning models.
