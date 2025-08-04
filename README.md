@@ -11,7 +11,7 @@ Visual Inspection with Acetic Acid (VIA) is a cost-effective and widely used cer
    
 In addition to image classification, we used a Random Forest model to analyze demographic, behavioral, and clinical features, identifying key predictors of cervical cancer. An ensemble model trained on these features achieved an accuracy of 94%.
 
-**OBJECTIVES:**
+## OBJECTIVES:
 1. Automatically classify cervix images captured during VIA screening using deep learning models.
 2. Predict cervical cancer risk using patient-level features to support early detection, even in VIA-negative cases.      
    
@@ -19,12 +19,12 @@ Our approach aims to improve the overall accuracy and reliability of cervical ca
 
 ---
 
-**FULL THESIS:**    
+**Full Thesis:**    
 You can read the complete thesis here: [Link](https://dspace.bracu.ac.bd:8443/xmlui/handle/10361/25092)   
 Authors: Rezwan Ahmed, Zulkar Nain, Aziz Ahmed, Kawser Sultana   
 Supervisor: Associate Professor Md. Ashraful Alam, PhD    
 Affiliation: CVIS Research Lab, BRAC University   
 
-**REPOSITORY CONTENT:**   
+**Repository Content:**   
 This repository contains the Python code only for the best-performing model (VGG16) used for cervix image classification. The outputs of the VGG16 model in the code were cleared due to the sensitivity of cervix images. For a complete understanding of the methodology, DL and ML models, and feature-based analysis, please refer to the full thesis paper linked above.
 
