@@ -17,8 +17,7 @@ OBJECTIVES:
 Our approach aims to improve the overall accuracy and reliability of cervical cancer screening, going beyond the traditional VIA method.
 
 FULL THESIS:    
-Read the complete thesis here: [Link](https://dspace.bracu.ac.bd:8443/xmlui/handle/10361/25092)   
-
+Read the complete thesis here: [Link](https://dspace.bracu.ac.bd:8443/xmlui/handle/10361/25092)
 Authors: Rezwan Ahmed, Zulkar Nain, Aziz Ahmed, Kawser Sultana   
 Supervisor: Associate Professor Md. Ashraful Alam, PhD    
 Affiliation: CVIS Research Lab, BRAC University   
