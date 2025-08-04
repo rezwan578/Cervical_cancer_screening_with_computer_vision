@@ -23,8 +23,8 @@ Our approach aims to improve the overall accuracy and reliability of cervical ca
 You can read the complete thesis here: [Link](https://dspace.bracu.ac.bd:8443/xmlui/handle/10361/25092)   
    
 **Authors:** Rezwan Ahmed, Zulkar Nain, Aziz Ahmed, Kawser Sultana   
-**Supervisor:** Associate Professor Md. Ashraful Alam, PhD    
-**Affiliation:** CVIS Research Lab, BRAC University   
+**Supervisor:** Associate Professor [Md. Ashraful Alam, PhD](https://www.bracu.ac.bd/about/people/md-ashraful-alam-phd)    
+**Affiliation:** [CVIS Lab](https://cvis.bracu.ac.bd/), [BRAC University](https://www.bracu.ac.bd/)   
 
 **Repository Content:**   
 This repository contains the Python code only for the best-performing model (VGG16) used for cervix image classification. The outputs of the VGG16 model in the code were cleared due to the sensitivity of cervix images. For a complete understanding of the methodology, DL and ML models, and feature-based analysis, please refer to the full thesis paper linked above.
