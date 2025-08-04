@@ -22,5 +22,5 @@ Supervisor: Associate Professor Md. Ashraful Alam, PhD
 Affiliation: CVIS Research Lab, BRAC University   
 
 **REPOSITORY CONTENT:**   
-This repository contains the Python code only for the best-performing model (VGG16) used for cervix image classification. For a complete understanding of the methodology, DL and ML models, and feature-based analysis, please refer to the full thesis paper linked above.
+This repository contains the Python code only for the best-performing model (VGG16) used for cervix image classification. The outputs of the VGG16 model in the code were cleared due to the sensitivity of cervix images. For a complete understanding of the methodology, DL and ML models, and feature-based analysis, please refer to the full thesis paper linked above.
 
