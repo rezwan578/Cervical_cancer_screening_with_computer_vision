@@ -20,7 +20,7 @@ Our approach aims to improve the overall accuracy and reliability of cervical ca
 ---
 
 **Full Thesis:**    
-You can read the complete thesis [here](https://dspace.bracu.ac.bd:8443/xmlui/handle/10361/25092)    
+You can read the complete thesis [here](https://dspace.bracu.ac.bd:8443/xmlui/handle/10361/25092).    
    
 **Authors:** Rezwan Ahmed, Zulkar Nain, Aziz Ahmed, Kawser Sultana   
 **Supervisor:** Associate Professor Md. Ashraful Alam, PhD    
