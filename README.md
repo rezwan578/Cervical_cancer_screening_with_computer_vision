@@ -27,5 +27,5 @@ You can read the complete thesis [here](https://dspace.bracu.ac.bd:8443/xmlui/ha
 **Affiliation:** CVIS Lab, BRAC University.   
 
 **Repository Content:**   
-This repository contains the Python code only for the best-performing model (VGG16) used for cervix image classification, available in `DigiCare_report.pdf`. The outputs of the VGG16 model in the code were cleared due to the sensitivity of cervix images. For a complete understanding of the methodology, DL and ML models, and feature-based analysis, please refer to the full thesis paper linked above.
+This repository contains the Python code only for the best-performing model (VGG16) used for cervix image classification, available in `VGG16_classification_using_VIA_img.ipynb`. The outputs of the VGG16 model in the code were cleared due to the sensitivity of cervix images. For a complete understanding of the methodology, DL and ML models, and feature-based analysis, please refer to the full thesis paper linked above.
 
